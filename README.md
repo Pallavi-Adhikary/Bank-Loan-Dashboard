@@ -63,7 +63,7 @@ The **Bank Loan Dashboard** is an interactive Power BI report that provides insi
 1. Open the PBIX file in **Power BI Desktop**  
 2. Explore Summary, Overview, and Details dashboards  
 3. Use slicers and filters for dynamic insights  
-4. Optionally, publish to **Power BI Service** to share with stakeholders  
+4. Optionally, publish to **Power BI Service** to share with others  
 
 ---
 
